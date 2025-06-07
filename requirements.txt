@@ -3,3 +3,4 @@ pandas
 pandas_ta
 python-telegram-bot
 requests
+numpy==1.26.4
